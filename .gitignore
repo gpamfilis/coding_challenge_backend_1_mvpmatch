@@ -1,0 +1,11 @@
+.vscode
+__pycache__
+app/__pycache__
+*.pyc
+.idea
+.mypy_cache
+.vscode
+.coverage
+.pytest_cache
+.venv
+test.db
